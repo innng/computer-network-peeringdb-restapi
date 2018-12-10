@@ -1,0 +1,731 @@
+2	Akamai Technologies	153
+3	DALnet IRC Network	17
+4	Limelight Networks Global	80
+5	Swisscom	30
+7	RCN	6
+8	Verizon Managed Router Service	9
+521	KPN	18
+522	BBOI (365 Data Centers)	19
+13	XO Communications	8
+1550	Bell Canada Backbone	6
+530	Telewest Broadband	1
+1554	Equinix Connect - LD Metro	6
+1045	NTT Communications (Global)	12
+22	Rackspace	11
+1046	IPTP Networks	38
+27	Yahoo!	88
+539	Highwinds Network Group, Inc	24
+540	tw telecom	10
+541	Zayo (Abovenet Communications Inc.)	25
+31	Telecom Italia Sparkle	8
+33	Cologix	7
+35	Internap	18
+560	Education Networks of America, Inc.	6
+564	Lumos	2
+576	Akamai Prolexic DDoS Mitigation	28
+72	Pacnet	22
+1100	Salesforce.com	21
+1613	SoftLayer Technologies, Inc. (an IBM Company)	48
+86	GTT Communications (AS4589)	15
+91	Colt	30
+104	Global Cloud Xchange (f.k.a. FLAG Telecom)	22
+620	Telxius Cable	3
+627	Walmart.com	2
+118	BT	20
+1144	Ironpath Network Inc	3
+120	Free SAS	7
+124	RETN	24
+136	TDS Telecom	10
+140	Verizon	3
+1676	PenTeleData	3
+1677	MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.	6
+150	BICS	20
+663	Nexicom Inc.	11
+1692	Carolina Internet / CaroNet	1
+1183	Suddenlink Communications	4
+678	LeaseWeb Network	26
+1703	Vocus Communications	29
+690	Internet Initiative Japan Inc. (IIJ)	15
+182	Videotron AS5769	4
+694	Microsoft	132
+1721	NORDUnet	20
+196	Deutsche Telekom	5
+1740	TigoUne	3
+721	TalkTalk	9
+1234	Zenlayer Inc	20
+1238	iRis Networks	3
+220	Atlantech Online, Inc.	1
+222	Giganews	4
+1247	Neovera, Inc.	1
+230	DataPipe	8
+231	RealConnect, Inc	1
+236	Telekom Malaysia Berhad (TM)	19
+751	TELE2	13
+1264	OVH	45
+1265	VEON Group	18
+763	Emirates Telecommunications Corporation (Etisalat)	26
+1279	Gandi	7
+257	British Telecom GIIB	8
+261	Vodafone Global Network	24
+262	1&1 Internet	15
+1300	Wave Division Holdings	9
+286	Packet Clearing House	164
+291	Hurricane Electric	196
+1319	Verizon Digital Media Services (EdgeCast Networks)	56
+307	Rogers Cable	5
+317	Shaw Cablesystems	14
+1365	Wikimedia Foundation	6
+854	OpenDNS, Inc.	33
+346	Liberty Global	23
+1372	CDNetworks Inc.	30
+353	Xeex Communications	5
+355	HopOne Internet Corp.	8
+873	Verisign	11
+890	Cogeco Peer1	19
+1403	Coretel America, Inc.	1
+380	TDC A/S	14
+893	Exponential-e Ltd	9
+1407	Pandora Media, Inc	3
+390	QTS Ashburn	1
+1418	Amazon.com	93
+1425	LightCore a CenturyTel Co.	3
+937	Internet2 TransitRail	9
+1451	PCCW Global	14
+428	Frontier Communications of America (FCA)	9
+940	Energy Sciences Network (ESnet)	7
+430	GoDaddy	4
+432	Conversant	5
+433	Google LLC	142
+1459	Telstra (International)	28
+1466	Equinix Corp Network	6
+1480	Ooredoo Qatar formerly Qatar Telecom	6
+457	Netflix	74
+459	BT LatAm	5
+979	Facebook Inc	96
+983	Mobile TeleSystems PJSC	14
+473	WOW!	11
+996	ICANN	4
+487	HGC	14
+1517	WebEx Communications	16
+510	Exponential Interactive, Inc.	3
+386	WiscNet	6
+388	ViaWest Internet Services	4
+648	Electric Lightwave	10
+1198	Clearwire	3
+529	LightBound	1
+1549	Steadfast Networks	4
+791	TWGate	10
+1684	General Communications Incorp	3
+928	Merit Network	3
+170	BlackBerry	7
+813	Choopa, LLC	12
+1071	Madison Tyler, LLC	2
+309	Atlantic Metro	11
+311	NuCDN	16
+1093	Telepacific Wireless , Inc. (formerly Covad Wireless).	3
+76	TELUS Communications	3
+1615	Persona Communications	4
+464	SupraNet Communications, Inc.	6
+1111	ISC	53
+1243	Nuclearfallout Enterprises, Inc.	2
+1388	API Digital	2
+369	HGTN.net	6
+401	Samsung SDS	9
+1305	Grande Communications	1
+1561	zColo - Dallas	2
+856	RGnet	2
+747	NTT DATA Services - HCLS Cloud	4
+1292	Fireline Network Solutions, Inc dba: Fireline Broadband	3
+23	KT Corporation (Korea Telecom)	6
+184	SK broadband	9
+321	CENIC / CalREN	5
+713	iiNet	16
+853	Spark NZ	7
+618	l.root-servers.net	21
+1405	Viettel	6
+1022	KDDI	10
+19	Webpass	5
+917	LS Networks	3
+939	Fiber Internet Center	5
+816	Sonic.net, Inc.	2
+438	Digital West Networks, Inc.	2
+217	BSO Network Solutions	8
+221	Tasty Lime	1
+861	Unwired	6
+865	digg.com	1
+247	JENS	2
+901	Singapore Telecommunications Limited	6
+393	AARNet	19
+21	Renesys	7
+919	Neopolitan Networks, Inc.	1
+1436	GoGrid	1
+1056	Biznet Networks	15
+1062	StarHub (as4657)	9
+1086	Dailymotion	12
+831	WIDE Project	2
+1474	CBN Networks	7
+1601	True Internet Corporation Co., Ltd.	10
+1356	Academia Sinica Network(ASNet)	4
+598	Docomo Pacific	5
+1506	HERE Global B.V.	5
+233	ViaNet Communications	1
+621	RIPE NCC RIS Project	22
+871	NationalNet, Inc.	2
+924	Southern Crossroads (SoX)	3
+1042	Clearleap	1
+944	Democratic National Committee	1
+932	NTI	1
+1199	Adtaq Internet	1
+176	Beanfield Metroconnect Inc.	7
+1416	CBS	1
+1698	Telemar	5
+163	Init7	21
+450	SFR Group	9
+637	InterServer, Inc	1
+1040	Zillow Group	1
+1426	Alaska Communications Systems Group, Inc.	2
+789	XMission	3
+1174	NoaNet	2
+923	UCAID	1
+416	Altopia Corporation	2
+1176	Threshold Communications 1	2
+931	NERO Network	3
+1191	Cortland Communications	1
+1560	Pocketinet Communications, Inc.	1
+1454	Northwest Nexus	1
+1587	Wowrack.com	2
+1208	Cutting Edge Communications	1
+1689	Noel Communications, Inc.	2
+1719	Marchex, Inc	1
+1722	King County I-NET	1
+1216	Metapeer, Inc.	1
+1217	TierPoint Seattle	1
+198	Daisy Communications	7
+582	NetNation Communications Inc.	2
+1222	BendTel	3
+77	Semaphore Corporation	1
+343	Pacific Northwest Gigapop	3
+1118	Applied Operations	1
+481	Blackfoot Communications Inc	2
+1511	CSS Communications	1
+1528	GTA/Teleguam Holdings, LLC	3
+1663	TeraGo Networks Inc.	2
+26	Stealth Communications	3
+702	Enter	10
+1599	Core-Backbone	20
+1089	ISPnet, Inc.	2
+1091	Access Integrated Technologies (Ezzi.net)	1
+837	Six Degrees - Datahop (6DG)	9
+585	Elisa Corporation	13
+719	hSo Group	10
+1006	Duodecad IT Services	13
+371	Webair	3
+629	TWDX IP	3
+25	MCI - MAE.net	1
+906	CacheFly	9
+1544	ICE (Costa Rica)	1
+14	GTT Communications (AS3257)	6
+926	AMPATH	2
+1185	Columbus Networks	3
+423	DENIC eG, AS31529	13
+1190	Scarlet Curacao	3
+308	China Telecom	4
+1486	RIPE NCC K-Root Operations	9
+1495	ANTEL	3
+1242	TELECOM ARGENTINA	1
+1253	Diveo	2
+1133	Easy Online Solutions, Ltd.	4
+1645	SMITCOMS	2
+885	Florida LambdaRail LLC	3
+513	Sungard Availability Services	3
+1540	IDE Group	3
+1032	Thus PLC	3
+1545	LinzNet ISP GmbH	3
+1547	Extreme Broadband	7
+524	Exa Networks Limited	4
+17	BBC	6
+29	Bouygues Telecom ISP	7
+1066	CITIC Telecom CPC Netherlands B.V.	12
+569	Simply Transit Ltd	3
+1081	Link11 GmbH	6
+572	MANDA	4
+577	Sprint	7
+580	NetConnex	3
+1101	FidoNet	4
+596	EDPNET	6
+1108	IDNet	7
+1112	Associated Networks (UK) Ltd	3
+601	M247 Ltd	26
+1113	Kingston Communications PLC	3
+93	RM Education plc	3
+607	Clouditalia Telecomunicazioni	6
+99	NetCologne	5
+100	Zen Internet	4
+613	Kcom SPN	3
+108	Timico Limited	2
+110	RCS & RDS	4
+1651	PIN	11
+116	Claranet	11
+121	Sunrise Communications AG	10
+126	euNetworks Group	14
+134	Datanet	2
+1162	Inclarity	1
+139	Burstfire Networks Ltd	4
+1163	Kantonsschule Zug	7
+1164	Cablecom Networking	6
+1682	Telekom Romania Communications S.A.	5
+1171	Bhutan Telecom Ltd	3
+1683	COMCOR	6
+149	BSE Software GmbH	5
+662	Bahnhof	11
+155	Entanet International Ltd	9
+670	AT&T EMEA - AS2686	12
+1695	KDDI Europe Ltd.	3
+680	Catalyst2 Services Ltd	2
+1192	Manx Telecom Ltd	4
+1706	UbuntuNET Alliance	3
+684	1&1 Versatel Deutschland GmbH	5
+179	Internet Solutions, South Africa	10
+181	Orbital Net Ltd	3
+1718	Atlas Communications (NI) Ltd.	2
+1723	Node4 Ltd	2
+1221	Symantec (EMEA)	17
+710	Public Internet Ltd	3
+200	Waycom (EMEA)	8
+201	Onyx Internet	4
+716	Wildcard Networks	2
+206	Gyron Internet Ltd	4
+212	VTX Services SA	5
+725	Liquid Telecommunications	14
+1236	Viatel Ltd	8
+215	Cyberlink	5
+731	Jaguar Network SAS	15
+733	Neuronnexion	10
+1252	GlobalConnect a/s	5
+238	Bogons	3
+1266	Bytemark Limited	4
+1270	UK2Group	3
+254	scanplus GmbH	3
+1280	Host Europe GmbH	6
+1282	Equinix Connect - EMEA	22
+1284	Qube Managed Services Limited	2
+268	BIT BV	4
+1297	GCI Com	5
+1298	ioko	2
+1299	Domicilium (IoM) Limited	3
+1304	Fastweb	7
+281	BTnet (BT's UK IP Network - AS2856)	2
+1309	Sargasso Networks Ltd. (UK)	3
+1311	Simwood eSMS Limited	3
+1314	Siminn	4
+292	Secura Hosting Ltd	2
+301	Deutsche Telekom / ex GTS Central Europe	10
+821	Open Peering	17
+835	Global Radio	2
+327	EWETel	5
+1352	Coreix Limited	2
+341	Verizon Business - EMEA	18
+855	Bayan Telecommunications Inc.	6
+857	MTN South Africa	8
+1381	Spitfire Network Services Ltd	2
+875	C2 Internet	3
+877	Extraordinary Managed Services	2
+883	PoBox Hosting Ltd	1
+1412	Virgin Media	3
+399	Paratus Telecom	8
+911	Freethought Internet Limited	4
+1423	Global Network Managment Ltd	8
+1429	Dreamscape Networks	5
+933	Pulsant	1
+1446	O2 Broadband	2
+1452	IP-Max SA	17
+950	eircom Ltd	7
+961	Janet	4
+967	Magnet Networks	4
+458	Telenor (Norway/Sweden)	11
+972	Blacknight Internet Solutions Ltd	7
+976	iomart	3
+986	IT.Gate	9
+475	OTEGlobe	3
+1510	Wi-Manx Limited	4
+495	Orange	6
+1008	UK Broadband	2
+1518	Mythic Beasts Ltd	4
+500	Eaton Kaye Ltd	1
+1014	Bezeq International	7
+505	Nerim	6
+507	Multiplay (UK) Ltd [GB]	2
+1535	brightsolid	3
+493	PIPE Networks	6
+1049	45RU HostAway	1
+1434	Fast Hit Pty Ltd	1
+1435	Aussie Broadband	10
+671	AT&T AP - AS2687	10
+1345	Emory University	1
+724	One Ring Networks	1
+497	GreatAccess.com	1
+934	Los Nettos	3
+558	American Internet Services, LLC	3
+730	China Unicom	2
+153	Cogeco Peer1 Toronto	2
+672	AT&T Canada - AS2685	1
+166	Convoke Communications Corp	1
+169	EGate Networks Inc.	1
+172	ILAP - Internet Light and Power	1
+1710	Cogeco Cable Canada Inc	1
+312	The Higher Technology (THT.net)	1
+185	Advanced Knowledge Networks	1
+318	Hydro One Telecom	3
+1744	SIGNAL TELECOM	1
+1374	Source Cable Ltd.	1
+357	PriorityColo Inc.	1
+746	Galaxy Multimedia PLC	1
+1132	Neutral Data	4
+1396	TekSavvy Solutions Inc.	7
+1538	NetAssist	10
+16	XS4ALL Internet B.V.	3
+532	Frontier Online	2
+535	Availo Networks / Port80	1
+1565	HL komm	5
+550	Cambrium BV.	2
+1067	Computerline Group	7
+568	Unilogic Networks B.V.	2
+584	IP2 Internet B.V.	2
+1098	MESH GmbH	4
+1610	Prometey LLC	6
+1614	SIL Citycable	5
+1625	IPHH Internet Port Hamburg GmbH	7
+1124	RTLNederland Interactief B.V	3
+1125	HeLi NET Telekommunikation	4
+614	iunxi BV	2
+1660	LINKEY	4
+1665	ASGCNET	2
+1158	Quasi Networks LTD	1
+660	CESNET	2
+681	iway AG	2
+1197	A1 Telekom Austria AG	4
+1201	equada network GmbH	4
+1204	Telia Lietuva, AB	5
+183	True B.V.	1
+186	Quickline AG	4
+700	Base IP B.V.	2
+1213	Fusionstorm	1
+1724	FIORD	12
+1728	ETT	4
+1218	We Dare	1
+709	Nianet A/S	6
+711	NTS Workspace AG	2
+1223	STRATO AG	10
+208	SIG Telecom	6
+1240	Plus.line AG	2
+218	nexellent ag	4
+219	Telecom Liechtenstein AG	4
+1241	Euronet Communications B.V.	2
+737	Association Gitoyen	8
+1250	Phibee Telecom	7
+1251	CBizz B.V.	3
+1255	Sewan Communications	3
+1258	Net By Net Holding, LLC	13
+240	SWITCH	4
+258	TNG Stadtnetz GmbH	13
+263	Titan Networks GmbH	2
+270	DENIC eG	2
+783	Concepts ICT Holding B.V.	2
+792	Amsio B.V.	1
+793	NovoServe B.V.	5
+798	SOLCON	4
+801	InterBox Internet	4
+805	NedZone Internet BV	4
+810	Uniserver Internet BV	2
+823	TeleData GmbH	5
+827	MuntInternet	1
+316	SdV	5
+319	Vodafone Germany	6
+1355	M-net Telekommunikations GmbH	6
+1357	IDKOM Networks GmbH	10
+1363	Anders Telecom	2
+1366	Ericsson Broadcast Services Netherlands	2
+345	KWAOO, K-NET	5
+348	Denit Internet Services B.V.	2
+1367	Turk Telekom	2
+1369	Duocast BV	2
+1371	Dial Telecom	6
+1373	Caveo Internet BV	1
+1377	Edutel	2
+1378	TransIP BV	2
+360	DOTRO Telecom	5
+1420	Computel Standby BV	2
+1422	Lynk Networks	2
+1461	RBNET	2
+439	ZeelandNet	1
+951	Telegraaf Media ICT BV.	1
+446	Luna.nl B.V.	3
+959	Seeweb	6
+1479	Zayo France	14
+981	OpenCarrier eG	7
+1496	in2ip	2
+1497	NPO (Nederlandse Publieke Omroep)	2
+1498	Previder BV	8
+1502	Scarlet Telecom B.V.	1
+1507	UNET BV	3
+997	Vodafone Kabel Deutschland GmbH	8
+1509	SIDN - Stichting Internet Domeinregistratie Nederland	3
+1512	RoutIT B.V.	2
+1513	Sarenet, S.A.	4
+1007	myLoc managed IT AG	10
+499	Hivane	13
+772	Open Systems AG	2
+780	V-Com Openpath	2
+1557	Equinix Connect - GV Metro	3
+812	BIT/FOITT	3
+202	METANET AG	2
+232	green.ch AG	3
+1562	NetIRD Inc.	5
+1697	NTT PC Communications (InfoSphere)	3
+1571	Community Network Center Inc. (CNCI)	7
+1574	Energia Communications, Inc.	4
+435	Verizon - Asia-Pac	9
+1717	Chubu Telecommunications Co.,Inc.	4
+825	M-ROOT DNS Server	14
+1082	SNI	4
+868	Hypermedia Systems	1
+504	Level 3 AS 3356	6
+1555	Equinix Connect - FR Metro	3
+1569	PIRONET NDH Datacenter AG & Co. KG	1
+1598	WideVOIP - WhichWAN / Chmurtz SaRL	8
+75	Level 3 AS 3549	12
+590	QSC AG Niederlassung Nuernberg	2
+599	domainfactory GmbH	3
+1624	interscholz Internet Services GmbH  & Co. KG	3
+1633	Monzoon Networks AG	2
+1635	Nauka-Svyaz LTD	5
+617	regio[.NET]	6
+1641	Johannes Gutenberg-Universitaet Mainz	1
+1138	DNS:NET Internet Service GmbH	2
+115	Telef\u00f3nica Germany GmbH & Co. OHG	7
+1656	IPB Internet Provider Berlin GmbH	3
+635	Probe Networks	2
+1159	FreiNet GmbH	1
+1675	First Colo GmbH	1
+1170	BelWue	4
+1186	Zattoo	3
+1189	DTS Systeme GmbH	1
+1726	Filanco AS29076	6
+203	rh-tec Business GmbH	1
+1227	Accelerated IT Services GmbH	1
+1268	MK Netzdienste GmbH & Co. KG	3
+250	NETHINKS	1
+269	Netzquadrat GmbH	2
+781	toplink GmbH	1
+273	NASK	4
+785	Softnet	7
+278	ratiokontakt GmbH	2
+279	DFN Deutsches Forschungsnetz e.V.	3
+1354	ecotel communication ag	1
+347	NetUSE AG	3
+358	MAnet GmbH	1
+891	Cablesurf	2
+914	QSC AG	7
+1427	A1 BG EAD	2
+1443	ATMAN	4
+947	DE-CIX Frankfurt Route Servers	1
+1467	cyberways GmbH	4
+1469	Global Access Internet Services GmbH	1
+1476	netplace Telematic GmbH	2
+965	NETPLANET GmbH	2
+1477	SpaceNet AG	4
+1483	noris network AG	7
+468	Individual Network Berlin e.V.	9
+1501	hotze.com GmbH	3
+479	freenet Cityline GmbH	2
+1004	HOSTWAY Deutschland GmbH	1
+953	Centauri Communications	1
+1450	MEDIA LITE SA	1
+1539	Linkbynet	3
+1712	Devclic	6
+1080	Oxymium	7
+187	BlueGIX	6
+956	Ipercast	1
+190	wan2many	4
+320	TAS France	3
+1225	TerraTransit AG	1
+971	KHEOPS Organisation	2
+1492	Magic OnLine	3
+1523	Prosodie Cap Gemini	3
+645	Intercom s.r.l.	2
+1428	Vodafone Group Services GmbH	1
+37	Mnet srl	1
+1324	Infracom Italia	2
+469	Telnet	2
+609	GARR	5
+1005	Panservice	3
+683	Broadcasting Center Europe (BCE pop in France)	1
+600	Hudson Digital	1
+852	Pilosoft Inc.	1
+342	LNTC	1
+916	Equinix Connect	7
+1050	NUS Gigapop	3
+1320	Digitel Philippines	2
+1097	TMHK	1
+1398	PREGINET	1
+1700	HEAnet	3
+88	BT Ireland	2
+490	Imagine Communications Group Ltd	2
+502	INEX Route Collectors	3
+285	ACOnet	1
+573	www.funknetz.at MH GmbH	1
+975	mmc kommunikationstechnologie gmbh	1
+1156	Neowiz Corp.	1
+817	Witbe	8
+294	MDNX	1
+1102	ClearIP	1
+913	Numericable	3
+604	EVONET Belgium NV	1
+1001	Proximus	1
+1065	senseLAN	1
+722	SwissIX Route Servers	1
+1631	Netcetera AG	1
+1634	acdalis informatik	1
+1636	mhs @ internet AG	1
+1637	Nine Internet Solutions AG	1
+1638	Trenka Informatik AG	1
+1639	Antares Kommunikationstechnik AG (antanet.ch)	1
+1640	IWB	1
+834	Altecom (Alta Tecnologia en Comunicacions, S.L.)	3
+1616	CSUC	1
+1505	Comvive Servidores	1
+794	i-Netboys	1
+283	Novso	2
+800	NerdNet	1
+807	Mevershosting.nl	1
+1370	Technotop Internet BV	1
+1382	Reasonnet IP Networks	1
+189	Infoclip	1
+818	Lidero Network	4
+1594	Riksnet AB (Ratt-Internet Kapacitet i Sverige AB)	8
+1219	SpriteLink International Carrier	1
+839	Bredband2	2
+849	Net at Once AB	5
+1021	Interoute Managed Services Sweden AB	1
+1023	SpaceDump IT AB	3
+657	NIX.CZ, z.s.p.o.	2
+1433	Casablanca INT s.r.o.	1
+1627	ha-vel internet s.r.o.	6
+1414	Bartels System GmbH	1
+1202	InterNetWire Communications GmbH	1
+1468	Transnet Internet Services GmbH	1
+1470	Cronon AG	1
+1475	ccn corporate communication networks GmbH	1
+743	NMMN New Media Markets & Networks IT-Services GmbH	2
+1393	n@work Internet Informationssysteme GmbH	2
+1333	MetaMicro Automatisering BV	1
+461	Netgroup A/S	2
+949	Comflex Networks ApS	1
+1694	Perspektiv Bredband AB	2
+454	IP Group	2
+1484	Redpill Linpro	1
+1401	InterNLnet BV	1
+941	Aixit GmbH	1
+942	AS250.net Foundation	9
+1087	Pixelpark GmbH	1
+1541	Netwurx	2
+1136	5NINES, LLC	3
+668	SpeedPartner GmbH	2
+1487	Clusters KG	3
+472	Speedbone GmbH	3
+1126	comtrance GmbH	2
+826	NTT Communications Corporation (OCN)	3
+1263	Institute of Molecular and Cell Biology, Singapore	1
+1529	M1 Net Ltd	3
+1430	WebCentral	4
+1438	Bulletproof Networks	4
+1448	Conexim Australia Pty Ltd	2
+442	OCCAID	5
+1533	Inticon Pty Ltd	1
+1346	INTERNET MULTIFEED CO.	2
+878	Nebula Oy	2
+1441	OBIT	9
+1589	SatTel Corporation, Ltd	2
+1730	Zenon N.S.P.	1
+1738	Lukoil Inform	1
+478	NODEX LTD	3
+1508	MIPT-Telecom	2
+946	UberGlobal Pty Ltd	2
+494	TOP-IX Route Servers	1
+705	Neustar	1
+1153	INTERNET AG Global Network	1
+1734	Funke Internet Services	1
+1224	meerfarbig GmbH & Co. KG	1
+1193	ISPpro Internet KG	1
+1386	WebJanssen ISP ltd @ Co KG	1
+1421	hostcamp IT-Solutions	1
+1141	GHOSTnet GmbH	1
+1341	RDNS Networks	1
+1057	KTHNOC	1
+1024	Icefrost/XHOP	1
+1283	Sirius Telecom	1
+1035	Trit Networks	1
+24	DSLExtreme	1
+1182	Corporate West (Netmagic)	2
+1334	Staminus Communications	1
+1338	Clarksys AS7012	1
+1716	Sudjam Networks	1
+832	MultaCOM	1
+1134	VPLS, Inc.	4
+366	Two P	1
+847	UnitedLayer LLC	1
+554	Asiakomnet Multimedia	2
+1504	CS LoxInfo (IIG)	1
+1122	NTT Communications - NTT Singapore	1
+1383	TIME DotCom Berhad	3
+389	DreamHost	1
+1177	Cascade Technology Alliance	1
+1210	Atmosera	1
+1672	NB Telecom	3
+673	AT&T LA - AS2688	2
+1332	LACNIC	1
+1017	NIC.BR	1
+1287	PoP-PR - Ponto de Presen	1
+1678	IPLAN Telecomunicaciones - NSS S.A.	1
+1537	Teleservice Bredband Sk\ufffdne AB	2
+302	MTS Allstream	1
+1690	CIFNet, Inc.	1
+1020	Maverick	1
+784	ComX Networks	1
+20	20C	2
+1458	JARING Communications Sdn Bhd	1
+1669	NAP Colombia	1
+1681	AEPROVI	2
+1556	Equinix Connect - PA Metro	1
+322	PPR	2
+456	Ikoula	2
+204	Azuria	1
+1611	Multi-vISP / SECR	2
+1739	NETWORTH TELECOM	2
+1742	IC Telecom	1
+213	M6 Web	2
+1237	OXEVA	2
+1527	Optilian	2
+1534	Alionis	2
+1630	Audatex (Switzerland) GmbH	1
+578	London Internet Exchange (LINX)	2
+729	Vermont Telephone	2
+1442	Cooolbox	1
+843	B2B2C Inc	1
+1521	TiERA Broadband Operator	2
+1691	CetSI	1
+1503	LE FIGARO	1
+1128	SUPINFO Global Network	1
+1048	Savage Communications Inc.	1
+1655	kyberna AG	1
+984	Free Software Foundation, Inc.	1
+101	Itility	1
+589	iomart - Asia/Middle East	1
+243	Namecheap	1
+411	Internet Operating Services LLC	2
+712	Your.Org, Inc.	1
+1036	CBS Interactive	1
+1731	N2N Technologies	1
+30	Cambridge Bandwidth Consortium	1
+443	IRC Hispano	1
+1449	Infracom AB	1
