@@ -65,7 +65,7 @@ def analysis0():
 
 # faz a análise 1 (redes por IPX)
 def analysis1():
-    # dicionário onde a chave é um net_id e cada valor é outro dicionário com
+    # dicionário onde a chave é um ix_id e cada valor é outro dicionário com
     # nome e contador
     result = {}
 
